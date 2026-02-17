@@ -5,5 +5,7 @@ I’m currently an MS in Information Systems student at the University of Cincin
 I like building projects that move from raw data → reliable pipelines → models/insights people can use.
 
 LinkedIn: https://www.linkedin.com/in/narayan-shanku  
-Email: shankunu@mail.uc.edu
+
+Email: shankunu@mail.uc.edu  
+
 Tableau Profile : https://public.tableau.com/app/profile/narayan.shanku/vizzes
