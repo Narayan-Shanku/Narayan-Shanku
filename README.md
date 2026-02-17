@@ -6,3 +6,4 @@ I like building projects that move from raw data → reliable pipelines → mode
 
 LinkedIn: https://www.linkedin.com/in/narayan-shanku  
 Email: shankunu@mail.uc.edu
+Tableau Profile : https://public.tableau.com/app/profile/narayan.shanku/vizzes
