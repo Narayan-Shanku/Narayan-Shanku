@@ -102,16 +102,17 @@ bias:           action over analysis-paralysis
 ---
 
 ## ❯ Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-Shanku&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-Shanku&theme=default" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-Shanku&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-Shanku&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narayan-Shanku&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Narayan-Shanku&theme=default" />
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Narayan-Shanku&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Narayan-Shanku&theme=default&utcOffset=-5" />
+</div>
 ---
 
 ## ❯ Build log → public
